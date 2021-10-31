@@ -1,16 +1,35 @@
-# news_reels
+# News reels (A Flutter App)
 
-A new Flutter project.
+##  App built with:
 
-## Getting Started
+###   Flutter Framework
+###   Dart Programming Language
+###   Android Studio IDE
 
-This project is a starting point for a Flutter application.
+##  App features:
 
-A few resources to get you started if this is your first Flutter project:
+###  1-Getting the top headlines news from https://newsapi.org/.  
+###  2-News reels app gets the top headlines news data about Egypt / USA and UK depending on user country selection
+###  3-News reels app uses two languages English & Arabic. 
+###  4-User can search for any news.
+###  5-Easy, Attractive and Simple UI.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##  App dependencies:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###  dio: ^4.0.0
+###  google_fonts: ^2.1.0
+###  animate_do: ^2.0.0
+###  bloc: ^7.2.1
+###  flutter_bloc: ^7.3.1
+###  country_icons: ^2.0.2
+###  conditional_builder_null_safety: ^0.0.6
+###  webview_flutter: ^2.1.2
+###  flutter_locales: ^2.0.0
+
+## App Designed & implemented by me :)
+
+## The project demo video here:
+
+### https://bit.ly/3jS56OF
+
+### Thank you :)
