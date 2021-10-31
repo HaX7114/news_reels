@@ -1,0 +1,30 @@
+{
+  "AppName" : "News reels",
+
+  "Business" : "Business",
+  "Entertainment" : "Entertainment",
+  "Health" : "Health",
+  "Science" : "Science",
+  "Sports" : "Sports",
+  "Technology" : "Technology",
+
+  "Countries" : "Countries news",
+
+  "Egypt" : "Egypt",
+  "USA" : "USA",
+  "UK" : "UK",
+
+  "ChangeLanguage" : "Change language",
+  "AR" : "Arabic",
+  "EN" : "English",
+
+  "ReadMore" : "Read more",
+
+  "SearchForNews" : "Search for news...",
+
+  "SearchRes" : "Search results will be shown here",
+  "Validator" : "Type something search",
+
+  "CouldNotLoadImg" : "Couldn't load image",
+  "CheckInternetConnection" : "Check internet connection"
+}

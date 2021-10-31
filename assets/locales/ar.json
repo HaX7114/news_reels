@@ -1,0 +1,31 @@
+{
+  "AppName" : "News reels",
+
+  "Business" : "الأعمال",
+  "Entertainment" : "الترفيه",
+  "Health" : "الصحة",
+  "Science" : "العلوم",
+  "Sports" : "الرياضة",
+  "Technology" : "التكنولوجيا",
+
+  "Countries" : "أخبار الدول",
+
+  "Egypt" : "مصر",
+  "USA" : "الولايات المتحدة الأمريكية",
+  "UK" : "المملكة المتحدة",
+
+  "ChangeLanguage" : "تغيير اللغة",
+  "AR" : "العربية",
+  "EN" : "الانجليزية",
+
+  "ReadMore" : "اقرأ المزيد",
+
+  "SearchForNews" : "ابحث عن اخبار...",
+
+  "SearchRes" : "نتائج البحث سوف تظهر هنا",
+
+  "Validator" : "اكتب شيئا لبدء البحث",
+
+  "CouldNotLoadImg" : "لا يمكن تحميل الصورة",
+  "CheckInternetConnection" : "تحقق من الاتصال بشبكة الانترنت"
+}
