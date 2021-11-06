@@ -1,3 +1,4 @@
+![News reels](https://user-images.githubusercontent.com/62621180/140614025-0f9093c0-6e26-4d2e-955a-840dbc91adad.png)
 # News reels (A Flutter App)
 
 ##  App built with:
